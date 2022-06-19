@@ -1,0 +1,1 @@
+# kubernetes1.24-install
